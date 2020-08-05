@@ -1,4 +1,6 @@
 .blue{
+  margin-top: 50px;
+  margin-bottom: 50px;
   font-size: large;
   color: blue;
   text-align: center;
@@ -6,18 +8,24 @@
 }
 
 .purple{
+  margin-top: 50px;
+  margin-bottom: 50px;
   font-size: large;
   color: purple;
   text-align: center;
   list-style-type: none;
 }
 .red{
+  margin-top: 50px;
+  margin-bottom: 50px;
   font-family: cursive;
   color: red;
   text-align: center;
   list-style-type: none;
 }
 .about{
+  margin-top: 50px;
+  margin-bottom: 50px;
   font-size: x-large;
   text-align: center;
   background-color: green;
