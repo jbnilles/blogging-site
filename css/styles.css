@@ -1,0 +1,24 @@
+.blue{
+  font-size: large;
+  color: blue;
+  text-align: center;
+  list-style-type: none;
+}
+
+.purple{
+  font-size: large;
+  color: purple;
+  text-align: center;
+  list-style-type: none;
+}
+.red{
+  font-family: cursive;
+  color: red;
+  text-align: center;
+  list-style-type: none;
+}
+.about{
+  font-size: x-large;
+  text-align: center;
+  background-color: red;
+}
